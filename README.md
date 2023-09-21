@@ -1,27 +1,23 @@
-# AngularBlog
+<h1 align="center">DIO - Angular Blog</h1>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+## Descrição
+Projeto Angular Blog desenvolvido durante o Bootcamp da DIO + Santander para aprender os fundamentos de TypeScript e Angular. <br>
+ 
+## Tecnologias utilizadas 📚
+* HTML
+* CSS
+* TypeScript
+* Angular
 
-## Development server
+## Deploy 
+Em desenvolvimento <br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Desenvolvido por:
+<img align="left" src="https://github.com/giulianasantana/giulianasantana/assets/133705620/e9906cee-397d-47d1-9d7b-9c4d6d2c78f0" width=110>
+<h3 href="https://github.com/giulianasantana">Giuliana Santana</h3>
+<div>  
+  <a href="https://www.linkedin.com/in/giulianasantana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-4285F4?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:giulianasantanas@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/giulianasantana"><img src="https://img.shields.io/badge/GitHub-CD6799?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
